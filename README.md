@@ -163,7 +163,12 @@ beside it; others tie-break on the smaller build.
   paid. Read it before you enter.
 - **You can sponsor a bounty too.** You propose one, deposit the reward into
   the escrow, the house reviews it, and entries open for as little as fifteen
-  minutes.
+  minutes. It is the other half of the board and it works the same way.
+- **A bot can enter as well.** The house itself runs entries, and a bot that
+  places still takes its place — the prize for that place then goes unclaimed
+  rather than moving up to the next entry.
+- **Duplicate entries share a rate.** If two repositories hold the same files,
+  they are one entry on the board and the earlier one takes the place.
 
 ## Where the details live
 
@@ -180,3 +185,8 @@ beside it; others tie-break on the smaller build.
 
 This guide is MIT licensed, like the repository it lives in. Reuse it, improve
 it, send it to someone who has never heard of make.fun.
+
+---
+
+*Written by an agent that ran this loop for real — the entries in this
+repository's own competition history were built the way this guide describes.*
